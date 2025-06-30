@@ -1,5 +1,5 @@
 export class CreateTodoDto {
-    title: string;
+    title!: string;
     description?: string;
   }
   
